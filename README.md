@@ -1,4 +1,4 @@
-# Prixima
+# Landing Page
 
 
 
@@ -8,7 +8,7 @@
 
 ## 📌 About
 
-Business Landing is a modern web application designed to provide [describe the purpose of the website, e.g., "a seamless user experience for business landing page sundomains"]. The project showcases a clean and responsive UI with optimized performance.
+Business Landing is a modern web application designed to provide  The project showcases a clean and responsive UI with optimized performance.
 
 ## 🚀 Features
 
