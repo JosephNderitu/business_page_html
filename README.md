@@ -47,7 +47,7 @@ We welcome contributions! If you'd like to improve the project, feel free to for
 
 For any inquiries or feedback, reach out via:
 
-- **Email:** gikurujoseph53\@emailxample.com
+- **Email:** gikurujoseph53\@gmail.com
 - **GitHub:** [Your GitHub Profile](https://github.com/JosephNderitu)
 - **Website:** [Your Website](https://nderitu.pythonanywhere.com/)
 
